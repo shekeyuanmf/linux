@@ -1,0 +1,3 @@
+ uwsgi --ini peizhi.ini
+ 
+ 
